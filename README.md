@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a BCA final year student.<br>With strong interest in datascience ,machine learning and web development🤝 I’m looking for help with<br>🌱 I’m currently working on a project using deep learning.<br>⚡ Continuously improving my technical skills.
+🔭 I’m currently a BCA final year student.<br>With strong interest in datascience ,machine learning and web development<br>I’m currently working on a project using deep learning.<br>⚡ Continuously improving my technical skills.
 
 
 ## 🌐 Socials:
